@@ -3,7 +3,7 @@ import json
 from typing import List, Dict, Tuple
 import numpy as np
 
-
+# Directed by Viacheslav Bevza
 # 8x8 S-box construction from 4x4 components over GF(2^4)
 # Based on the construction described in:
 # https://www.mdpi.com/2410-387X/9/4/67
